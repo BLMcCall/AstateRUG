@@ -1,4 +1,6 @@
 # AstateRUG
+September 2020
+
 An introductory workshop for creating maps in R hosted by Astate R User Group (RUG)
 
 R code is available in this repository and zoom recording can be found in the link below
